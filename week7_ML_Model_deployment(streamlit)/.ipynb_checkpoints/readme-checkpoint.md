@@ -57,10 +57,10 @@ pickle.dump(model, open('model.pkl', 'wb'))
 
 ## 🖼 UI Preview
 
-Add a screenshot of your deployed app here (name it `screenshot.png`):
+Screenshot of the deployed app:
 
-![UI Screenshot 1](../../images/Screenshot-1.png)
-![UI Screenshot 2](../../images/Screenshot-2.png)
+![Screenshot 1](images/Screenshot-1.png)
+![Screenshot 2](images/Screenshot-2.png)
 
 ---
 
