@@ -55,7 +55,6 @@ To build an end-to-end machine learning pipeline that:
 |-------------|-----------|
 | Accuracy    | 87%       |
 | F1-score    | 0.87      |
-| Balanced precision/recall |
 
 ---
 
